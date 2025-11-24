@@ -94,8 +94,16 @@ Strategic Insights
 
 
 The analysis reveals critical dependencies and areas of risk:
+
+
 Product Reliance: The high revenue dependency on Marmalade suggests vulnerability to supply chain issues or market changes affecting this single product. Diversification of high-margin items is necessary.
+
+
+
 Sales Inconsistency: The extreme swings in monthly sales (from a low of 13K to a high of 50K) highlight a severe lack of sales stability. This volatility complicates budgeting, forecasting, and inventory management.
+
+
+
 Customer Concentration Risk: The disproportionate revenue derived from the top two customers (D and H) poses a significant risk. Loss of either customer would instantly and severely impact the company’s financial health.
 
 
@@ -111,8 +119,18 @@ Post-Analysis and Insights
 
 
 The in-depth review confirms the initial observations:
+
+
+
 Regional Balancing: The relatively small revenue gap between the four regions suggests that even minor strategic investment in the West and East could quickly balance the regional performance and drive substantial overall growth.
+
+
+
 Logistics Reliability: The near-equal distribution of revenue among the three main shippers confirms the need to maintain strong, competitive relationships with all three to ensure logistical redundancy and favorable pricing.
+
+
+
+
 High-Value Products: Although not all products are listed, the revenue figures for the top three products confirm their importance, but the low unit price average across all products ($5.91K for 15K units implies a $0.39 average unit price) suggests the business model is characterized by high volume and low margin.
 
 
@@ -129,8 +147,18 @@ Visualizations
 
 
 The dashboard uses effective visuals to convey performance:
+
+
+
 Donut Charts (Region and Customer): Clearly illustrate the proportional revenue contribution, emphasizing the slight lead of North/South and the high concentration of revenue among the top customers.
+
+
+
 Line Chart (Quarterly Sales Trend Report): Dramatically showcases the extreme volatility and seasonality of sales across the year.
+
+
+
+
 Horizontal Bar Charts (Product and Shipper): Quickly communicate the rank order and magnitude of revenue for Marmalade and the top Shipping Companies.
 
 
